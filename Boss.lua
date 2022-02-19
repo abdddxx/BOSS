@@ -8076,7 +8076,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9320,7 +9320,7 @@ data = {
 },
 }
 }
-return LuaTele.sendText(msg_chat_id,msg_id, "*- TΞΛM BФSS *\n➖➖➖","md",false, false, false, false, reply_markup)
+return LuaTele.sendText(msg_chat_id,msg_id, "*- ۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍 *\n➖➖➖","md",false, false, false, false, reply_markup)
 elseif text == 'الاوامر' then
 if not msg.Addictive then
 return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
@@ -9347,7 +9347,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9369,7 +9369,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9391,7 +9391,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9413,7 +9413,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9435,7 +9435,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9457,7 +9457,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -9479,7 +9479,7 @@ data = {
 {text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11113,7 +11113,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11174,7 +11174,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11236,7 +11236,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11292,7 +11292,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11335,7 +11335,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11393,7 +11393,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -11437,7 +11437,7 @@ data = {
 {text = '- اخفاء الامر ', data =IdUser..'/'.. 'delAmr'}
 },
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -12587,7 +12587,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+{text = '۰۪۫C۪۫۰۰۪۫Z۪۫۰۰۪۫A۪۫۰۰۪۫R۪۫۰卍', url = 't.me/czarbot1'}, 
 },
 }
 }
@@ -13348,3 +13348,3067 @@ luatele.run(CallBackLua)
 
 
 
+x.." - @"..UserInfo.username.."*\n"
+else
+restricted = restricted.."*"..x.." - *["..UserInfo.id.."](tg://user?id="..UserInfo.id..") \n"
+end
+end
+end
+if y == true then
+LuaTele.sendText(msg_chat_id,msg_id,restricted,"md",true)  
+end
+end
+
+
+if text == "غادر" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+LuaTele.sendText(msg_chat_id,msg_id,"*\n- تم مغادرة المجموعه بامر من المطور *","md",true)  
+local Left_Bot = LuaTele.leaveChat(msg.chat_id)
+end
+if text == 'تاك للكل' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = LuaTele.searchChatMembers(msg_chat_id, "*", 200)
+local List_Members = Info_Members.members
+listall = '\n*- قائمه الاعضاء \n ➖➖➖*\n'
+for k, v in pairs(List_Members) do
+local UserInfo = LuaTele.getUser(v.member_id.user_id)
+if UserInfo.username ~= "" then
+listall = listall.."*"..k.." - @"..UserInfo.username.."*\n"
+else
+listall = listall.."*"..k.." -* ["..UserInfo.id.."](tg://user?id="..UserInfo.id..")\n"
+end
+end
+LuaTele.sendText(msg_chat_id,msg_id,listall,"md",true)  
+end
+
+if text == "قفل الدردشه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:text"..msg_chat_id,true) 
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الدردشه").Lock,"md",true)  
+return false
+end 
+if text == "قفل الاضافه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:set(Boss.."Boss:Lock:AddMempar"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل اضافة الاعضاء").Lock,"md",true)  
+return false
+end 
+if text == "قفل الدخول" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:set(Boss.."Boss:Lock:Join"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل دخول الاعضاء").Lock,"md",true)  
+return false
+end 
+if text == "قفل البوتات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:set(Boss.."Boss:Lock:Bot:kick"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل البوتات").Lock,"md",true)  
+return false
+end 
+if text == "قفل البوتات بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:set(Boss.."Boss:Lock:Bot:kick"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل البوتات").lockKick,"md",true)  
+return false
+end 
+if text == "قفل الاشعارات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end  
+Redis:set(Boss.."Boss:Lock:tagservr"..msg_chat_id,true)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الاشعارات").Lock,"md",true)  
+return false
+end 
+if text == "قفل التثبيت" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end  
+Redis:set(Boss.."Boss:lockpin"..msg_chat_id,(LuaTele.getChatPinnedMessage(msg_chat_id).id or true)) 
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التثبيت هنا").Lock,"md",true)  
+return false
+end 
+if text == "قفل التعديل" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:set(Boss.."Boss:Lock:edit"..msg_chat_id,true) 
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل تعديل").Lock,"md",true)  
+return false
+end 
+if text == "قفل تعديل الميديا" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:set(Boss.."Boss:Lock:edit"..msg_chat_id,true) 
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل تعديل").Lock,"md",true)  
+return false
+end 
+if text == "قفل الكل" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end  
+Redis:set(Boss.."Boss:Lock:tagservrbot"..msg_chat_id,true)   
+list ={"Lock:Bot:kick","Lock:User:Name","Lock:hashtak","Lock:Cmd","Lock:Link","Lock:forward","Lock:Keyboard","Lock:geam","Lock:Photo","Lock:Animation","Lock:Video","Lock:Audio","Lock:vico","Lock:Sticker","Lock:Document","Lock:Unsupported","Lock:Markdaun","Lock:Contact","Lock:Spam"}
+for i,lock in pairs(list) do 
+Redis:set(Boss..'Boss:'..lock..msg_chat_id,"del")    
+end
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل جميع الاوامر").Lock,"md",true)  
+return false
+end 
+
+
+--------------------------------------------------------------------------------------------------------------
+if text == "فتح الاضافه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:AddMempar"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح اضافة الاعضاء").unLock,"md",true)  
+return false
+end 
+if text == "فتح الدردشه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:text"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الدردشه").unLock,"md",true)  
+return false
+end 
+if text == "فتح الدخول" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:Join"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح دخول الاعضاء").unLock,"md",true)  
+return false
+end 
+if text == "فتح البوتات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:Bot:kick"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح البوتات").unLock,"md",true)  
+return false
+end 
+if text == "فتح البوتات " then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:Bot:kick"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح البوتات").unLock,"md",true)  
+return false
+end 
+if text == "فتح الاشعارات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end  
+Redis:del(Boss.."Boss:Lock:tagservr"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح الاشعارات").unLock,"md",true)  
+return false
+end 
+if text == "فتح التثبيت" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:lockpin"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح التثبيت هنا").unLock,"md",true)  
+return false
+end 
+if text == "فتح التعديل" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:edit"..msg_chat_id) 
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح تعديل").unLock,"md",true)  
+return false
+end 
+if text == "فتح التعديل الميديا" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:edit"..msg_chat_id) 
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح تعديل").unLock,"md",true)  
+return false
+end 
+if text == "فتح الكل" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end 
+Redis:del(Boss.."Boss:Lock:tagservrbot"..msg_chat_id)   
+list ={"Lock:Bot:kick","Lock:User:Name","Lock:hashtak","Lock:Cmd","Lock:Link","Lock:forward","Lock:Keyboard","Lock:geam","Lock:Photo","Lock:Animation","Lock:Video","Lock:Audio","Lock:vico","Lock:Sticker","Lock:Document","Lock:Unsupported","Lock:Markdaun","Lock:Contact","Lock:Spam"}
+for i,lock in pairs(list) do 
+Redis:del(Boss..'Boss:'..lock..msg_chat_id)    
+end
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فـتح جميع الاوامر").unLock,"md",true)  
+return false
+end 
+if text == "@all" or text == "تاك عام" or text == "all" then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+local Info_Members = LuaTele.searchChatMembers(msg_chat_id, "*", 200)
+x = 0
+tags = 0
+local list = Info_Members.members
+for k, v in pairs(list) do
+local UserInfo = LuaTele.getUser(v.member_id.user_id)
+if x == 5 or x == tags or k == 0 then
+tags = x + 5
+listall = ""
+end
+x = x + 1
+if UserInfo.first_name ~= '' then
+listall = listall.." ["..UserInfo.first_name.."](tg://user?id="..UserInfo.id.."),"
+end
+if x == 5 or x == tags or k == 0 then
+LuaTele.sendText(msg_chat_id,msg_id,listall,"md",true)  
+end
+end
+end
+if text == "غنيلي" or text == "غني" or text == "اغنيه" or text == "اغاني" then 
+Abs = math.random(2,101); 
+local Text ='*- تم اختيار الاغنيه لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/AudiosBoss/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "ريمكس" or text == "الريمكس" then 
+Abs = math.random(2,101); 
+local Text ='*- تم اختيار الريمكس لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/RemixBossm/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "صوره" or text == "رمزيه" then 
+Abs = math.random(2,15); 
+local Text ='*- تم اختيار الصوره لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/FotoBossm/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "انمي" or text == "الانمي" then 
+Abs = math.random(2,14); 
+local Text ='*- تم اختيار الانمي لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/AnmiBoss/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "متحركه" or text == "المتحركه" then 
+Abs = math.random(2,25); 
+local Text ='*- تم اختيار المتحركه لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/gifBossm/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "فلم" or text == "الفلم" then 
+Abs = math.random(2,15); 
+local Text ='*- تم اختيار الفلم لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/FilmsBossm/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "مسلسل" or text == "المسلسل" then 
+Abs = math.random(2,14); 
+local Text ='*- تم اختيار المسلسل لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/MsBossm/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+if text == "معزوفه" or text == "ردح" then 
+Abs = math.random(2,101); 
+local Text ='*- تم اختيار المعزوفه لك*'
+local MsgId = msg.id/2097152/0.5
+local MSGID = string.gsub(MsgId,'.0','')
+https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/AudiosBoss/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..MsgId.."&parse_mode=markdown") 
+end
+--------------------------------------------------------------------------------------------------------------
+if text == "قفل التكرار" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:hset(Boss.."Boss:Spam:Group:User"..msg_chat_id ,"Spam:User","del")  
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التكرار").Lock,"md",true)  
+elseif text == "قفل التكرار بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:hset(Boss.."Boss:Spam:Group:User"..msg_chat_id ,"Spam:User","keed")  
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التكرار").lockKid,"md",true)  
+elseif text == "قفل التكرار بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:hset(Boss.."Boss:Spam:Group:User"..msg_chat_id ,"Spam:User","mute")  
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التكرار").lockKtm,"md",true)  
+elseif text == "قفل التكرار بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:hset(Boss.."Boss:Spam:Group:User"..msg_chat_id ,"Spam:User","kick")  
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التكرار").lockKick,"md",true)  
+elseif text == "فتح التكرار" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:hdel(Boss.."Boss:Spam:Group:User"..msg_chat_id ,"Spam:User")  
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح التكرار").unLock,"md",true)  
+end
+if text == "قفل الروابط" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Link"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الروابط").Lock,"md",true)  
+return false
+end 
+if text == "قفل الروابط بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Link"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الروابط").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الروابط بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Link"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الروابط").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الروابط بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Link"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الروابط").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الروابط" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Link"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الروابط").unLock,"md",true)  
+return false
+end 
+if text == "قفل المعرفات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:User:Name"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المعرفات").Lock,"md",true)  
+return false
+end 
+if text == "قفل المعرفات بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:User:Name"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المعرفات").lockKid,"md",true)  
+return false
+end 
+if text == "قفل المعرفات بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:User:Name"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المعرفات").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل المعرفات بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:User:Name"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المعرفات").lockKick,"md",true)  
+return false
+end 
+if text == "فتح المعرفات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:User:Name"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح المعرفات").unLock,"md",true)  
+return false
+end 
+if text == "قفل التاك" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:hashtak"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التاك").Lock,"md",true)  
+return false
+end 
+if text == "قفل التاك بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:hashtak"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التاك").lockKid,"md",true)  
+return false
+end 
+if text == "قفل التاك بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:hashtak"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التاك").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل التاك بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:hashtak"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التاك").lockKick,"md",true)  
+return false
+end 
+if text == "فتح التاك" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:hashtak"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح التاك").unLock,"md",true)  
+return false
+end 
+if text == "قفل الشارحه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Cmd"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الشارحه").Lock,"md",true)  
+return false
+end 
+if text == "قفل الشارحه بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Cmd"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الشارحه").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الشارحه بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Cmd"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الشارحه").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الشارحه بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Cmd"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الشارحه").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الشارحه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Cmd"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الشارحه").unLock,"md",true)  
+return false
+end 
+if text == "قفل الصور"then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Photo"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصور").Lock,"md",true)  
+return false
+end 
+if text == "قفل الصور بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Photo"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصور").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الصور بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Photo"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصور").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الصور بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Photo"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصور").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الصور" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Photo"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الصور").unLock,"md",true)  
+return false
+end 
+if text == "قفل الفيديو" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Video"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الفيديو").Lock,"md",true)  
+return false
+end 
+if text == "قفل القناه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Channel"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل القناه").Lock,"md",true)  
+return false
+end 
+if text == "قفل الفيديو بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Video"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الفيديو").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الفيديو بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Video"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الفيديو").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الفيديو بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Video"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الفيديو").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الفيديو" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Video"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الفيديو").unLock,"md",true)  
+return false
+end 
+if text == "فتح القناه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Channel"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح القناه").unLock,"md",true)  
+return false
+end 
+if text == "قفل المتحركه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Animation"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المتحركه").Lock,"md",true)  
+return false
+end 
+if text == "قفل المتحركه بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Animation"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المتحركه").lockKid,"md",true)  
+return false
+end 
+if text == "قفل المتحركه بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Animation"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المتحركه").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل المتحركه بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Animation"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل المتحركه").lockKick,"md",true)  
+return false
+end 
+if text == "فتح المتحركه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Animation"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح المتحركه").unLock,"md",true)  
+return false
+end 
+if text == "قفل الالعاب" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:geam"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الالعاب").Lock,"md",true)  
+return false
+end 
+if text == "قفل الالعاب بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:geam"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الالعاب").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الالعاب بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:geam"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الالعاب").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الالعاب بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:geam"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الالعاب").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الالعاب" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:geam"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الالعاب").unLock,"md",true)  
+return false
+end 
+if text == "قفل الاغاني" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Audio"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الاغاني").Lock,"md",true)  
+return false
+end 
+if text == "قفل الاغاني بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Audio"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الاغاني").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الاغاني بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Audio"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الاغاني").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الاغاني بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Audio"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الاغاني").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الاغاني" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Audio"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الاغاني").unLock,"md",true)  
+return false
+end 
+if text == "قفل الصوت" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:vico"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصوت").Lock,"md",true)  
+return false
+end 
+if text == "قفل الصوت بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:vico"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصوت").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الصوت بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:vico"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصوت").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الصوت بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:vico"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الصوت").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الصوت" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:vico"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الصوت").unLock,"md",true)  
+return false
+end 
+if text == "قفل الكيبورد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Keyboard"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكيبورد").Lock,"md",true)  
+return false
+end 
+if text == "قفل الكيبورد بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Keyboard"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكيبورد").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الكيبورد بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Keyboard"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكيبورد").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الكيبورد بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Keyboard"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكيبورد").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الكيبورد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Keyboard"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الكيبورد").unLock,"md",true)  
+return false
+end 
+if text == "قفل الملصقات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Sticker"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملصقات").Lock,"md",true)  
+return false
+end 
+if text == "قفل الملصقات بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Sticker"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملصقات").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الملصقات بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Sticker"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملصقات").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الملصقات بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Sticker"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملصقات").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الملصقات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Sticker"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الملصقات").unLock,"md",true)  
+return false
+end 
+if text == "قفل التوجيه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:forward"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التوجيه").Lock,"md",true)  
+return false
+end 
+if text == "قفل التوجيه بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:forward"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التوجيه").lockKid,"md",true)  
+return false
+end 
+if text == "قفل التوجيه بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:forward"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التوجيه").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل التوجيه بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:forward"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل التوجيه").lockKick,"md",true)  
+return false
+end 
+if text == "فتح التوجيه" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:forward"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح التوجيه").unLock,"md",true)  
+return false
+end 
+if text == "قفل الملفات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Document"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملفات").Lock,"md",true)  
+return false
+end 
+if text == "قفل الملفات بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Document"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملفات").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الملفات بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Document"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملفات").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الملفات بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Document"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الملفات").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الملفات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Document"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الملفات").unLock,"md",true)  
+return false
+end 
+if text == "قفل السيلفي" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Unsupported"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل السيلفي").Lock,"md",true)  
+return false
+end 
+if text == "قفل السيلفي بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Unsupported"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل السيلفي").lockKid,"md",true)  
+return false
+end 
+if text == "قفل السيلفي بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Unsupported"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل السيلفي").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل السيلفي بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Unsupported"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل السيلفي").lockKick,"md",true)  
+return false
+end 
+if text == "فتح السيلفي" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Unsupported"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح السيلفي").unLock,"md",true)  
+return false
+end 
+if text == "قفل الماركداون" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Markdaun"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الماركداون").Lock,"md",true)  
+return false
+end 
+if text == "قفل الماركداون بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Markdaun"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الماركداون").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الماركداون بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Markdaun"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الماركداون").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الماركداون بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Markdaun"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الماركداون").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الماركداون" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Markdaun"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الماركداون").unLock,"md",true)  
+return false
+end 
+if text == "قفل الجهات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Contact"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الجهات").Lock,"md",true)  
+return false
+end 
+if text == "قفل الجهات بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Contact"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الجهات").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الجهات بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Contact"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الجهات").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الجهات بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Contact"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الجهات").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الجهات" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Contact"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الجهات").unLock,"md",true)  
+return false
+end 
+if text == "قفل الكلايش" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Spam"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكلايش").Lock,"md",true)  
+return false
+end 
+if text == "قفل الكلايش بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Spam"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكلايش").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الكلايش بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Spam"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكلايش").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الكلايش بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Spam"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الكلايش").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الكلايش" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Spam"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الكلايش").unLock,"md",true)  
+return false
+end 
+if text == "قفل الانلاين" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Inlen"..msg_chat_id,"del")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الانلاين").Lock,"md",true)  
+return false
+end 
+if text == "قفل الانلاين بالتقيد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Inlen"..msg_chat_id,"ked")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الانلاين").lockKid,"md",true)  
+return false
+end 
+if text == "قفل الانلاين بالكتم" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Inlen"..msg_chat_id,"ktm")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الانلاين").lockKtm,"md",true)  
+return false
+end 
+if text == "قفل الانلاين بالطرد" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Lock:Inlen"..msg_chat_id,"kick")  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم قفـل الانلاين").lockKick,"md",true)  
+return false
+end 
+if text == "فتح الانلاين" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Lock:Inlen"..msg_chat_id)  
+LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(msg.sender.user_id,"- تم فتح الانلاين").unLock,"md",true)  
+return false
+end 
+if text == "ضع رابط" or text == "وضع رابط" then
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Set:Link"..msg_chat_id..""..msg.sender.user_id,120,true) 
+return LuaTele.sendText(msg_chat_id,msg_id,"📥︙ارسل رابط المجموعه او رابط قناة المجموعه","md",true)  
+end
+if text == "مسح الرابط" or text == "حذف الرابط" then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Group:Link"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم مسح الرابط ","md",true)             
+end
+if text == "الرابط" then
+if not Redis:get(Boss.."Boss:Status:Link"..msg_chat_id) then
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم تعطيل جلب الرابط من قبل الادمنيه","md",true)
+end 
+local Get_Chat = LuaTele.getChat(msg_chat_id)
+local GetLink = Redis:get(Boss.."Boss:Group:Link"..msg_chat_id) 
+if GetLink then
+local reply_markup = LuaTele.replyMarkup{type = 'inline',data = {
+{{text =Get_Chat.title, url = GetLink}, },}}
+return LuaTele.sendText(msg_chat_id, msg_id, "-  Link Group : \n["..GetLink.. ']('..GetLink..')', 'md', true, false, false, false, reply_markup)
+else
+local LinkGroup = LuaTele.generateChatInviteLink(msg_chat_id,'taha',tonumber(msg.date+86400),100,false)
+if LinkGroup.code == 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا استطيع جلب الرابط بسبب ليس لدي صلاحيه دعوه مستخدمين من خلال الرابط ","md",true)
+end
+local reply_markup = LuaTele.replyMarkup{type = 'inline',data = {
+{{text = Get_Chat.title, url = LinkGroup.invite_link},},}}
+return LuaTele.sendText(msg_chat_id, msg_id, "-  Link Group : \n["..LinkGroup.invite_link.. ']('..LinkGroup.invite_link..')', 'md', true, false, false, false, reply_markup)
+end
+end
+
+if text == "ضع ترحيب" or text == "وضع ترحيب" then  
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Tshake:Welcome:Group" .. msg_chat_id .. "" .. msg.sender.user_id, 120, true)  
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل لي الترحيب الان".."\n- تستطيع اضافة مايلي !\n- دالة عرض الاسم »{`name`}\n- دالة عرض المعرف »{`user`}\n- دالة عرض اسم المجموعه »{`NameCh`}","md",true)   
+end
+if text == "الترحيب" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if not Redis:get(Boss.."Boss:Status:Welcome"..msg_chat_id) then
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم تعطيل الترحيب من قبل الادمنيه","md",true)
+end 
+local Welcome = Redis:get(Boss.."Boss:Welcome:Group"..msg_chat_id)
+if Welcome then 
+return LuaTele.sendText(msg_chat_id,msg_id,Welcome,"md",true)   
+else 
+return LuaTele.sendText(msg_chat_id,msg_id,"- لم يتم تعيين ترحيب للمجموعه","md",true)   
+end 
+end
+if text == "مسح الترحيب" or text == "حذف الترحيب" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Welcome:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم ازالة ترحيب المجموعه","md",true)   
+end
+if text == "ضع قوانين" or text == "وضع قوانين" then 
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Set:Rules:" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل لي القوانين الان","md",true)  
+end
+if text == "مسح القوانين" or text == "حذف القوانين" then  
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Group:Rules"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم ازالة قوانين المجموعه","md",true)    
+end
+if text == "القوانين" then 
+local Rules = Redis:get(Boss.."Boss:Group:Rules" .. msg_chat_id)   
+if Rules then     
+return LuaTele.sendText(msg_chat_id,msg_id,Rules,"md",true)     
+else      
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا توجد قوانين هنا","md",true)     
+end    
+end
+if text == "ضع وصف" or text == "وضع وصف" then 
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).Info == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تغيير المعلومات* ',"md",true)  
+end
+Redis:setex(Boss.."Boss:Set:Description:" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل لي وصف المجموعه الان","md",true)  
+end
+if text == "مسح الوصف" or text == "حذف الوصف" then  
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).Info == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تغيير المعلومات* ',"md",true)  
+end
+LuaTele.setChatDescription(msg_chat_id, '') 
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم ازالة قوانين المجموعه","md",true)    
+end
+
+if text and text:match("^ضع اسم (.*)") or text and text:match("^وضع اسم (.*)") then 
+local NameChat = text:match("^ضع اسم (.*)") or text:match("^وضع اسم (.*)") 
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).Info == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تغيير المعلومات* ',"md",true)  
+end
+LuaTele.setChatTitle(msg_chat_id,NameChat)
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم تغيير اسم المجموعه الى : "..NameChat,"md",true)    
+end
+
+if text == ("ضع صوره") then  
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if GetInfoBot(msg).Info == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تغيير المعلومات* ',"md",true)  
+end
+Redis:set(Boss.."Boss:Chat:Photo"..msg_chat_id..":"..msg.sender.user_id,true) 
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الصوره لوضعها","md",true)    
+end
+
+if text == "مسح قائمه المنع" then   
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:List:Filter"..msg_chat_id)  
+if #list == 0 then  
+return LuaTele.sendText(msg_chat_id,msg_id,"*- لا يوجد كلمات ممنوعه هنا *","md",true)   
+end  
+for k,v in pairs(list) do  
+v = v:gsub('photo:',"") 
+v = v:gsub('sticker:',"") 
+v = v:gsub('animation:',"") 
+v = v:gsub('text:',"") 
+Redis:del(Boss.."Boss:Filter:Group:"..v..msg_chat_id)  
+Redis:srem(Boss.."Boss:List:Filter"..msg_chat_id,v)  
+end  
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح ("..#list..") كلمات ممنوعه *","md",true)   
+end
+if text == "قائمه المنع" then   
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:List:Filter"..msg_chat_id)  
+if #list == 0 then  
+return LuaTele.sendText(msg_chat_id,msg_id,"*- لا يوجد كلمات ممنوعه هنا *","md",true)   
+end  
+Filter = '\n*- قائمه المنع \n ➖➖➖*\n'
+for k,v in pairs(list) do  
+print(v)
+if v:match('photo:(.*)') then
+ver = 'صوره'
+elseif v:match('animation:(.*)') then
+ver = 'متحركه'
+elseif v:match('sticker:(.*)') then
+ver = 'ملصق'
+elseif v:match('text:(.*)') then
+ver = v:gsub('text:',"") 
+end
+v = v:gsub('photo:',"") 
+v = v:gsub('sticker:',"") 
+v = v:gsub('animation:',"") 
+v = v:gsub('text:',"") 
+local Text_Filter = Redis:get(Boss.."Boss:Filter:Group:"..v..msg_chat_id)   
+Filter = Filter.."*"..k.."- "..ver.." » { "..Text_Filter.." }*\n"    
+end  
+LuaTele.sendText(msg_chat_id,msg_id,Filter,"md",true)  
+end  
+if text == "منع" then       
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss..'Boss:FilterText'..msg_chat_id..':'..msg.sender.user_id,'true')
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- ارسل الان { ملصق ,متحركه ,صوره ,رساله } *',"md",true)  
+end    
+if text == "الغاء منع" then    
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss..'Boss:FilterText'..msg_chat_id..':'..msg.sender.user_id,'DelFilter')
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- ارسل الان { ملصق ,متحركه ,صوره ,رساله } *',"md",true)  
+end
+
+if text == "اضف امر" then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Command:Reids:Group"..msg_chat_id..":"..msg.sender.user_id,"true") 
+return LuaTele.sendText(msg_chat_id,msg_id,"- الان ارسل لي الامر القديم ...","md",true)
+end
+if text and text:match("^اضف امر (%S+)$") then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Command:Reids:Group:New"..msg_chat_id,text:match("^اضف امر (%S+)$"))
+Redis:set(Boss.."Boss:Command:Reids:Group:End"..msg_chat_id..":"..msg.sender.user_id,"true1") 
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الامر الجديد ليتم وضعه مكان القديم","md",true)  
+end
+if text == "حذف امر" or text == "مسح امر" then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Command:Reids:Group:Del"..msg_chat_id..":"..msg.sender.user_id,"true") 
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الان الامر الذي قمت بوضعه مكان الامر القديم","md",true)
+end
+if text and text:match("^مسح امر (%S+)$") or text and text:match("^حذف امر (%S+)$") then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local DelAmr = text:match("^مسح امر (%S+)$") or text:match("^حذف امر (%S+)$")
+local NewCmmd = Redis:get(Boss.."Boss:Get:Reides:Commands:Group"..msg_chat_id..":"..DelAmr)
+if NewCmmd then
+Redis:del(Boss.."Boss:Get:Reides:Commands:Group"..msg_chat_id..":"..DelAmr)
+Redis:del(Boss.."Boss:Command:Reids:Group:New"..msg_chat_id)
+Redis:srem(Boss.."Boss:Command:List:Group"..msg_chat_id,DelAmr)
+LuaTele.sendText(msg_chat_id,msg_id,"- تم ازالة هذا الامر← { "..DelAmr.." }","md",true)
+else
+LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد امر بهذا الاسم","md",true)
+end
+Redis:del(Boss.."Boss:Command:Reids:Group:Del"..msg_chat_id..":"..msg.sender.user_id)
+return false
+end
+
+if text == "حذف الاوامر المضافه" or text == "مسح الاوامر المضافه" then 
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:Command:List:Group"..msg_chat_id)
+for k,v in pairs(list) do
+Redis:del(Boss.."Boss:Get:Reides:Commands:Group"..msg_chat_id..":"..v)
+Redis:del(Boss.."Boss:Command:List:Group"..msg_chat_id)
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم مسح جميع الاوامر التي تم اضافتها","md",true)
+end
+if text == "الاوامر المضافه" then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:Command:List:Group"..msg_chat_id.."")
+Command = "- قائمه الاوامر المضافه  \n➖➖➖\n"
+for k,v in pairs(list) do
+Commands = Redis:get(Boss.."Boss:Get:Reides:Commands:Group"..msg_chat_id..":"..v)
+if Commands then 
+Command = Command..""..k..": ("..v..") ← {"..Commands.."}\n"
+else
+Command = Command..""..k..": ("..v..") \n"
+end
+end
+if #list == 0 then
+Command = "- لا توجد اوامر اضافيه"
+end
+return LuaTele.sendText(msg_chat_id,msg_id,Command,"md",true)
+end
+
+if text == "تثبيت" and msg.reply_to_message_id ~= 0 then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).PinMsg == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تثبيت الرسائل* ',"md",true)  
+end
+LuaTele.sendText(msg_chat_id,msg_id,"\n- تم تثبيت الرساله","md",true)
+local Message_Reply = LuaTele.getMessage(msg.chat_id, msg.reply_to_message_id)
+local PinMsg = LuaTele.pinChatMessage(msg_chat_id,Message_Reply.id,true)
+end
+if text == 'الغاء التثبيت' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).PinMsg == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تثبيت الرسائل* ',"md",true)  
+end
+LuaTele.sendText(msg_chat_id,msg_id,"\n- تم الغاء تثبيت الرساله","md",true)
+LuaTele.unpinChatMessage(msg_chat_id) 
+end
+if text == 'الغاء تثبيت الكل' then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).PinMsg == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه تثبيت الرسائل* ',"md",true)  
+end
+LuaTele.sendText(msg_chat_id,msg_id,"\n- تم الغاء تثبيت جميع الرسائل","md",true)
+for i=0, 20 do
+local UnPin = LuaTele.unpinChatMessage(msg_chat_id) 
+if not LuaTele.getChatPinnedMessage(msg_chat_id).id then
+break
+end
+end
+end
+if text == "الحمايه" then    
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local reply_markup = LuaTele.replyMarkup{
+type = 'inline',
+data = {
+{
+{text = 'تعطيل الرابط', data = msg.sender.user_id..'/'.. 'unmute_link'},{text = 'تفعيل الرابط', data = msg.sender.user_id..'/'.. 'mute_link'},
+},
+{
+{text = 'تعطيل الترحيب', data = msg.sender.user_id..'/'.. 'unmute_welcome'},{text = 'تفعيل الترحيب', data = msg.sender.user_id..'/'.. 'mute_welcome'},
+},
+{
+{text = 'اتعطيل الايدي', data = msg.sender.user_id..'/'.. 'unmute_Id'},{text = 'اتفعيل الايدي', data = msg.sender.user_id..'/'.. 'mute_Id'},
+},
+{
+{text = 'تعطيل الايدي بالصوره', data = msg.sender.user_id..'/'.. 'unmute_IdPhoto'},{text = 'تفعيل الايدي بالصوره', data = msg.sender.user_id..'/'.. 'mute_IdPhoto'},
+},
+{
+{text = 'تعطيل ردود المدير', data = msg.sender.user_id..'/'.. 'unmute_ryple'},{text = 'تفعيل ردود المدير', data = msg.sender.user_id..'/'.. 'mute_ryple'},
+},
+{
+{text = 'تعطيل ردود المطور', data = msg.sender.user_id..'/'.. 'unmute_ryplesudo'},{text = 'تفعيل ردود المطور', data = msg.sender.user_id..'/'.. 'mute_ryplesudo'},
+},
+{
+{text = 'تعطيل الرفع', data = msg.sender.user_id..'/'.. 'unmute_setadmib'},{text = 'تفعيل الرفع', data = msg.sender.user_id..'/'.. 'mute_setadmib'},
+},
+{
+{text = 'تعطيل الطرد', data = msg.sender.user_id..'/'.. 'unmute_kickmembars'},{text = 'تفعيل الطرد', data = msg.sender.user_id..'/'.. 'mute_kickmembars'},
+},
+{
+{text = 'تعطيل الالعاب', data = msg.sender.user_id..'/'.. 'unmute_games'},{text = 'تفعيل الالعاب', data = msg.sender.user_id..'/'.. 'mute_games'},
+},
+{
+{text = 'تعطيل اطردني', data = msg.sender.user_id..'/'.. 'unmute_kickme'},{text = 'تفعيل اطردني', data = msg.sender.user_id..'/'.. 'mute_kickme'},
+},
+{
+{text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
+},
+}
+}
+return LuaTele.sendText(msg_chat_id, msg_id, '- اوامر التفعيل والتعطيل ', 'md', false, false, false, false, reply_markup)
+end  
+if text == 'اعدادات الحمايه' then 
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if Redis:get(Boss.."Boss:Status:Link"..msg.chat_id) then
+Statuslink = '❬ ✔ ❭' else Statuslink = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:Welcome"..msg.chat_id) then
+StatusWelcome = '❬ ✔ ❭' else StatusWelcome = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:Id"..msg.chat_id) then
+StatusId = '❬ ✔ ❭' else StatusId = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:IdPhoto"..msg.chat_id) then
+StatusIdPhoto = '❬ ✔ ❭' else StatusIdPhoto = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:Reply"..msg.chat_id) then
+StatusReply = '❬ ✔ ❭' else StatusReply = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:ReplySudo"..msg.chat_id) then
+StatusReplySudo = '❬ ✔ ❭' else StatusReplySudo = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:BanId"..msg.chat_id)  then
+StatusBanId = '❬ ✔ ❭' else StatusBanId = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:SetId"..msg.chat_id) then
+StatusSetId = '❬ ✔ ❭' else StatusSetId = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:Games"..msg.chat_id) then
+StatusGames = '❬ ✔ ❭' else StatusGames = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:KickMe"..msg.chat_id) then
+Statuskickme = '❬ ✔ ❭' else Statuskickme = '❬ ❌ ❭'
+end
+if Redis:get(Boss.."Boss:Status:AddMe"..msg.chat_id) then
+StatusAddme = '❬ ✔ ❭' else StatusAddme = '❬ ❌ ❭'
+end
+local protectionGroup = '\n*- اعدادات حمايه المجموعه\n ➖➖➖\n'
+..'\n- جلب الرابط ➤ '..Statuslink
+..'\n- جلب الترحيب ➤ '..StatusWelcome
+..'\n- الايدي ➤ '..StatusId
+..'\n- الايدي بالصوره ➤ '..StatusIdPhoto
+..'\n- ردود المدير ➤ '..StatusReply
+..'\n- ردود المطور ➤ '..StatusReplySudo
+..'\n- الرفع ➤ '..StatusSetId
+..'\n- الحظر - الطرد ➤ '..StatusBanId
+..'\n- الالعاب ➤ '..StatusGames
+..'\n- امر اطردني ➤ '..Statuskickme..'*\n\n.'
+local reply_markup = LuaTele.replyMarkup{
+type = 'inline',
+data = {
+{
+{text = 'TΞΛM BФSS', url = 't.me/czarbot1'}, 
+},
+}
+}
+return LuaTele.sendText(msg_chat_id, msg_id,protectionGroup,'md', false, false, false, false, reply_markup)
+end
+if text == "الاعدادات" then    
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Text = "*\n- اعدادات المجموعه ".."\n🔏︙علامة ال (✔) تعني مقفول".."\n🔓︙علامة ال (❌) تعني مفتوح*"
+local reply_markup = LuaTele.replyMarkup{
+type = 'inline',
+data = {
+{
+{text = GetSetieng(msg_chat_id).lock_links, data = '&'},{text = 'الروابط : ', data =msg.sender.user_id..'/'.. 'Status_link'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_spam, data = '&'},{text = 'الكلايش : ', data =msg.sender.user_id..'/'.. 'Status_spam'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_inlin, data = '&'},{text = 'الكيبورد : ', data =msg.sender.user_id..'/'.. 'Status_keypord'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_vico, data = '&'},{text = 'الاغاني : ', data =msg.sender.user_id..'/'.. 'Status_voice'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_gif, data = '&'},{text = 'المتحركه : ', data =msg.sender.user_id..'/'.. 'Status_gif'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_file, data = '&'},{text = 'الملفات : ', data =msg.sender.user_id..'/'.. 'Status_files'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_text, data = '&'},{text = 'الدردشه : ', data =msg.sender.user_id..'/'.. 'Status_text'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_ved, data = '&'},{text = 'الفيديو : ', data =msg.sender.user_id..'/'.. 'Status_video'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_ch, data = '&'},{text = 'القناه : ', data =msg.sender.user_id..'/'.. 'Status_channel'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_photo, data = '&'},{text = 'الصور : ', data =msg.sender.user_id..'/'.. 'Status_photo'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_user, data = '&'},{text = 'المعرفات : ', data =msg.sender.user_id..'/'.. 'Status_username'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_hash, data = '&'},{text = 'التاك : ', data =msg.sender.user_id..'/'.. 'Status_tags'},
+},
+{
+{text = GetSetieng(msg_chat_id).lock_bots, data = '&'},{text = 'البوتات : ', data =msg.sender.user_id..'/'.. 'Status_bots'},
+},
+{
+{text = '- التالي ... ', data =msg.sender.user_id..'/'.. 'NextSeting'}
+},
+{
+{text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. 'delAmr'}
+},
+}
+}
+return LuaTele.sendText(msg_chat_id, msg_id, Text, 'md', false, false, false, false, reply_markup)
+end  
+
+
+if text == 'المجموعه' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+local Info_Chats = LuaTele.getSupergroupFullInfo(msg_chat_id)
+local Get_Chat = LuaTele.getChat(msg_chat_id)
+if Get_Chat.permissions.can_add_web_page_previews then
+web = '❬ ✔ ❭' else web = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_change_info then
+info = '❬ ✔ ❭' else info = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_invite_users then
+invite = '❬ ✔ ❭' else invite = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_pin_messages then
+pin = '❬ ✔ ❭' else pin = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_media_messages then
+media = '❬ ✔ ❭' else media = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_messages then
+messges = '❬ ✔ ❭' else messges = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_other_messages then
+other = '❬ ✔ ❭' else other = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_polls then
+polls = '❬ ✔ ❭' else polls = '❬ ❌ ❭'
+end
+local permissions = '*\n- صلاحيات المجموعه :\n➖➖➖'..'\n- ارسال الويب : '..web..'\n- تغيير معلومات المجموعه : '..info..'\n- اضافه مستخدمين : '..invite..'\n- تثبيت الرسائل : '..pin..'\n- ارسال الميديا : '..media..'\n- ارسال الرسائل : '..messges..'\n- اضافه البوتات : '..other..'\n- ارسال استفتاء : '..polls..'*\n\n'
+local TextChat = '*\n- معلومات المجموعه :\n➖➖➖'..' \n- عدد الادمنيه : ❬ '..Info_Chats.administrator_count..' ❭\n- عدد المحظورين : ❬ '..Info_Chats.banned_count..' ❭\n- عدد الاعضاء : ❬ '..Info_Chats.member_count..' ❭\n- عدد المقيديين : ❬ '..Info_Chats.restricted_count..' ❭\n- اسم المجموعه : ❬* ['..Get_Chat.title..']('..Info_Chats.invite_link.invite_link..')* ❭*'
+return LuaTele.sendText(msg_chat_id,msg_id, TextChat..permissions,"md",true)
+end
+if text == 'صلاحيات المجموعه' then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+local Get_Chat = LuaTele.getChat(msg_chat_id)
+if Get_Chat.permissions.can_add_web_page_previews then
+web = '❬ ✔ ❭' else web = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_change_info then
+info = '❬ ✔ ❭' else info = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_invite_users then
+invite = '❬ ✔ ❭' else invite = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_pin_messages then
+pin = '❬ ✔ ❭' else pin = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_media_messages then
+media = '❬ ✔ ❭' else media = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_messages then
+messges = '❬ ✔ ❭' else messges = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_other_messages then
+other = '❬ ✔ ❭' else other = '❬ ❌ ❭'
+end
+if Get_Chat.permissions.can_send_polls then
+polls = '❬ ✔ ❭' else polls = '❬ ❌ ❭'
+end
+local reply_markup = LuaTele.replyMarkup{
+type = 'inline',
+data = {
+{
+{text = '- ارسال الويب : '..web, data = msg.sender.user_id..'/web'}, 
+},
+{
+{text = '- تغيير معلومات المجموعه : '..info, data =msg.sender.user_id..  '/info'}, 
+},
+{
+{text = '- اضافه مستخدمين : '..invite, data =msg.sender.user_id..  '/invite'}, 
+},
+{
+{text = '- تثبيت الرسائل : '..pin, data =msg.sender.user_id..  '/pin'}, 
+},
+{
+{text = '- ارسال الميديا : '..media, data =msg.sender.user_id..  '/media'}, 
+},
+{
+{text = '- ارسال الرسائل : .'..messges, data =msg.sender.user_id..  '/messges'}, 
+},
+{
+{text = '- اضافه البوتات : '..other, data =msg.sender.user_id..  '/other'}, 
+},
+{
+{text = '- ارسال استفتاء : '..polls, data =msg.sender.user_id.. '/polls'}, 
+},
+{
+{text = '- اخفاء الامر ', data =msg.sender.user_id..'/'.. '/delAmr'}
+},
+}
+}
+return LuaTele.sendText(msg_chat_id, msg_id, "-  الصلاحيات - ", 'md', false, false, false, false, reply_markup)
+end
+if text == 'تنزيل الكل' and msg.reply_to_message_id ~= 0 then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Message_Reply = LuaTele.getMessage(msg.chat_id, msg.reply_to_message_id)
+local UserInfo = LuaTele.getUser(Message_Reply.sender.user_id)
+if UserInfo.message == "Invalid user ID" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ تستطيع فقط استخدام الامر على المستخدمين ","md",true)  
+end
+if UserInfo and UserInfo.type and UserInfo.type.luatele == "userTypeBot" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام الامر على البوت ","md",true)  
+end
+if Redis:sismember(Boss.."Boss:Developers:Groups",Message_Reply.sender.user_id) then
+dev = "المطور ،" else dev = "" end
+if Redis:sismember(Boss.."Boss:TheBasics:Group"..msg_chat_id, Message_Reply.sender.user_id) then
+crr = "منشئ اساسي ،" else crr = "" end
+if Redis:sismember(Boss..'Boss:Originators:Group'..msg_chat_id, Message_Reply.sender.user_id) then
+cr = "منشئ ،" else cr = "" end
+if Redis:sismember(Boss..'Boss:Managers:Group'..msg_chat_id, Message_Reply.sender.user_id) then
+own = "مدير ،" else own = "" end
+if Redis:sismember(Boss..'Boss:Addictive:Group'..msg_chat_id, Message_Reply.sender.user_id) then
+mod = "ادمن ،" else mod = "" end
+if Redis:sismember(Boss..'Boss:Distinguished:Group'..msg_chat_id, Message_Reply.sender.user_id) then
+vip = "مميز ،" else vip = ""
+end
+if The_ControllerAll(Message_Reply.sender.user_id) == true then
+Rink = 1
+elseif Redis:sismember(Boss.."Boss:Developers:Groups",Message_Reply.sender.user_id)  then
+Rink = 2
+elseif Redis:sismember(Boss.."Boss:TheBasics:Group"..msg_chat_id, Message_Reply.sender.user_id) then
+Rink = 3
+elseif Redis:sismember(Boss.."Boss:Originators:Group"..msg_chat_id, Message_Reply.sender.user_id) then
+Rink = 4
+elseif Redis:sismember(Boss.."Boss:Managers:Group"..msg_chat_id, Message_Reply.sender.user_id) then
+Rink = 5
+elseif Redis:sismember(Boss.."Boss:Addictive:Group"..msg_chat_id, Message_Reply.sender.user_id) then
+Rink = 6
+elseif Redis:sismember(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id) then
+Rink = 7
+else
+Rink = 8
+end
+if StatusCanOrNotCan(msg_chat_id,Message_Reply.sender.user_id) == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- ليس لديه اي رتبه هنا *","md",true)  
+end
+if msg.ControllerBot then
+if Rink == 1 or Rink < 1 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Developers:Groups",Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:TheBasics:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Originators:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id)
+elseif msg.Developers then
+if Rink == 2 or Rink < 2 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:TheBasics:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Originators:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id)
+elseif msg.TheBasics then
+if Rink == 3 or Rink < 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Originators:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id)
+elseif msg.Originators then
+if Rink == 4 or Rink < 4 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id)
+elseif msg.Managers then
+if Rink == 5 or Rink < 5 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, Message_Reply.sender.user_id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id)
+elseif msg.Addictive then
+if Rink == 6 or Rink < 6 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, Message_Reply.sender.user_id)
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- تم تنزيل الشخص من الرتب التاليه { "..dev..""..crr..""..cr..""..own..""..mod..""..vip.." *}","md",true)  
+end
+
+if text and text:match('^تنزيل الكل @(%S+)$') then
+local UserName = text:match('^تنزيل الكل @(%S+)$')
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local UserId_Info = LuaTele.searchPublicChat(UserName)
+if not UserId_Info.id then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا يوجد حساب بهذا المعرف ","md",true)  
+end
+if UserId_Info.type.is_channel == true then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف قناة او كروب ","md",true)  
+end
+if UserName and UserName:match('(%S+)[Bb][Oo][Tt]') then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف البوت ","md",true)  
+end
+if Redis:sismember(Boss.."Boss:Developers:Groups",UserId_Info.id) then
+dev = "المطور ،" else dev = "" end
+if Redis:sismember(Boss.."Boss:TheBasics:Group"..msg_chat_id, UserId_Info.id) then
+crr = "منشئ اساسي ،" else crr = "" end
+if Redis:sismember(Boss..'Boss:Originators:Group'..msg_chat_id, UserId_Info.id) then
+cr = "منشئ ،" else cr = "" end
+if Redis:sismember(Boss..'Boss:Managers:Group'..msg_chat_id, UserId_Info.id) then
+own = "مدير ،" else own = "" end
+if Redis:sismember(Boss..'Boss:Addictive:Group'..msg_chat_id, UserId_Info.id) then
+mod = "ادمن ،" else mod = "" end
+if Redis:sismember(Boss..'Boss:Distinguished:Group'..msg_chat_id, UserId_Info.id) then
+vip = "مميز ،" else vip = ""
+end
+if The_ControllerAll(UserId_Info.id) == true then
+Rink = 1
+elseif Redis:sismember(Boss.."Boss:Developers:Groups",UserId_Info.id)  then
+Rink = 2
+elseif Redis:sismember(Boss.."Boss:TheBasics:Group"..msg_chat_id, UserId_Info.id) then
+Rink = 3
+elseif Redis:sismember(Boss.."Boss:Originators:Group"..msg_chat_id, UserId_Info.id) then
+Rink = 4
+elseif Redis:sismember(Boss.."Boss:Managers:Group"..msg_chat_id, UserId_Info.id) then
+Rink = 5
+elseif Redis:sismember(Boss.."Boss:Addictive:Group"..msg_chat_id, UserId_Info.id) then
+Rink = 6
+elseif Redis:sismember(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id) then
+Rink = 7
+else
+Rink = 8
+end
+if StatusCanOrNotCan(msg_chat_id,UserId_Info.id) == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- ليس لديه اي رتبه هنا *","md",true)  
+end
+if msg.ControllerBot then
+if Rink == 1 or Rink < 1 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Developers:Groups",UserId_Info.id)
+Redis:srem(Boss.."Boss:TheBasics:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Originators:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id)
+elseif msg.Developers then
+if Rink == 2 or Rink < 2 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:TheBasics:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Originators:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id)
+elseif msg.TheBasics then
+if Rink == 3 or Rink < 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Originators:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id)
+elseif msg.Originators then
+if Rink == 4 or Rink < 4 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Managers:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id)
+elseif msg.Managers then
+if Rink == 5 or Rink < 5 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Addictive:Group"..msg_chat_id, UserId_Info.id)
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id)
+elseif msg.Addictive then
+if Rink == 6 or Rink < 6 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكن تنزيل رتبه نفس رتبتك ولا اعلى من رتبتك *","md",true)  
+end
+Redis:srem(Boss.."Boss:Distinguished:Group"..msg_chat_id, UserId_Info.id)
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- تم تنزيل الشخص من الرتب التاليه { "..dev..""..crr..""..cr..""..own..""..mod..""..vip.." *}","md",true)  
+end
+
+if text == ('رفع مشرف') and msg.reply_to_message_id ~= 0 then
+if not msg.TheBasics then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(4)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).SetAdmin == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه اضافة مشرفين* ',"md",true)  
+end
+local Message_Reply = LuaTele.getMessage(msg.chat_id, msg.reply_to_message_id)
+local UserInfo = LuaTele.getUser(Message_Reply.sender.user_id)
+if UserInfo.message == "Invalid user ID" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ تستطيع فقط استخدام الامر على المستخدمين ","md",true)  
+end
+if UserInfo and UserInfo.type and UserInfo.type.luatele == "userTypeBot" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام الامر على البوت ","md",true)  
+end
+local SetAdmin = LuaTele.setChatMemberStatus(msg.chat_id,Message_Reply.sender.user_id,'administrator',{1 ,1, 0, 0, 0, 0, 0 , 0, 0, 0, 0, 0, ''})
+if SetAdmin.code == 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكنني رفعه ليس لدي صلاحيات *","md",true)  
+end
+local reply_markup = LuaTele.replyMarkup{
+type = 'inline',
+data = {
+{
+{text = '- تعديل الصلاحيات ', data = msg.sender.user_id..'/groupNumseteng//'..Message_Reply.sender.user_id}, 
+},
+}
+}
+return LuaTele.sendText(msg_chat_id, msg_id, "-  صلاحيات المستخدم - ", 'md', false, false, false, false, reply_markup)
+end
+if text and text:match('^رفع مشرف @(%S+)$') then
+local UserName = text:match('^رفع مشرف @(%S+)$')
+if not msg.TheBasics then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(4)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).SetAdmin == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه اضافة مشرفين* ',"md",true)  
+end
+local UserId_Info = LuaTele.searchPublicChat(UserName)
+if not UserId_Info.id then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا يوجد حساب بهذا المعرف ","md",true)  
+end
+if UserId_Info.type.is_channel == true then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف قناة او كروب ","md",true)  
+end
+if UserName and UserName:match('(%S+)[Bb][Oo][Tt]') then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف البوت ","md",true)  
+end
+local SetAdmin = LuaTele.setChatMemberStatus(msg.chat_id,UserId_Info.id,'administrator',{1 ,1, 0, 0, 0, 0, 0 , 0, 0, 0, 0, 0, ''})
+if SetAdmin.code == 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكنني رفعه ليس لدي صلاحيات *","md",true)  
+end
+local reply_markup = LuaTele.replyMarkup{
+type = 'inline',
+data = {
+{
+{text = '- تعديل الصلاحيات ', data = msg.sender.user_id..'/groupNumseteng//'..UserId_Info.id}, 
+},
+}
+}
+return LuaTele.sendText(msg_chat_id, msg_id, "-  صلاحيات المستخدم - ", 'md', false, false, false, false, reply_markup)
+end 
+if text == ('تنزيل مشرف') and msg.reply_to_message_id ~= 0 then
+if not msg.TheBasics then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(4)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).SetAdmin == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه اضافة مشرفين* ',"md",true)  
+end
+local Message_Reply = LuaTele.getMessage(msg.chat_id, msg.reply_to_message_id)
+local UserInfo = LuaTele.getUser(Message_Reply.sender.user_id)
+if UserInfo.message == "Invalid user ID" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ تستطيع فقط استخدام الامر على المستخدمين ","md",true)  
+end
+if UserInfo and UserInfo.type and UserInfo.type.luatele == "userTypeBot" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام الامر على البوت ","md",true)  
+end
+local SetAdmin = LuaTele.setChatMemberStatus(msg.chat_id,Message_Reply.sender.user_id,'administrator',{0 ,0, 0, 0, 0, 0, 0 ,0, 0})
+if SetAdmin.code == 400 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لست انا من قام برفعه *","md",true)  
+end
+if SetAdmin.code == 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكنني تنزيله ليس لدي صلاحيات *","md",true)  
+end
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(Message_Reply.sender.user_id,"- تم تنزيله من المشرفين ").Reply,"md",true)  
+end
+if text and text:match('^تنزيل مشرف @(%S+)$') then
+local UserName = text:match('^تنزيل مشرف @(%S+)$')
+if not msg.TheBasics then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(4)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).SetAdmin == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه اضافة مشرفين* ',"md",true)  
+end
+local UserId_Info = LuaTele.searchPublicChat(UserName)
+if not UserId_Info.id then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا يوجد حساب بهذا المعرف ","md",true)  
+end
+if UserId_Info.type.is_channel == true then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف قناة او كروب ","md",true)  
+end
+if UserName and UserName:match('(%S+)[Bb][Oo][Tt]') then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف البوت ","md",true)  
+end
+local SetAdmin = LuaTele.setChatMemberStatus(msg.chat_id,UserId_Info.id,'administrator',{0 ,0, 0, 0, 0, 0, 0 ,0, 0})
+if SetAdmin.code == 400 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لست انا من قام برفعه *","md",true)  
+end
+if SetAdmin.code == 3 then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- لا يمكنني تنزيله ليس لدي صلاحيات *","md",true)  
+end
+return LuaTele.sendText(msg_chat_id,msg_id,Reply_Status(UserId_Info.id,"- تم تنزيله من المشرفين ").Reply,"md",true)  
+end 
+if text == 'مسح رسائلي' then
+Redis:del(Boss..'Boss:Num:Message:User'..msg.chat_id..':'..msg.sender.user_id)
+LuaTele.sendText(msg_chat_id,msg_id,'- تم مسح جميع رسائلك ',"md",true)  
+elseif text == 'مسح سحكاتي' or text == 'مسح تعديلاتي' then
+Redis:del(Boss..'Boss:Num:Message:Edit'..msg.chat_id..':'..msg.sender.user_id)
+LuaTele.sendText(msg_chat_id,msg_id,'- تم مسح جميع تعديلاتك ',"md",true)  
+elseif text == 'مسح جهاتي' then
+Redis:del(Boss..'Boss:Num:Add:Memp'..msg.chat_id..':'..msg.sender.user_id)
+LuaTele.sendText(msg_chat_id,msg_id,'- تم مسح جميع جهاتك المضافه ',"md",true)  
+elseif text == 'رسائلي' then
+LuaTele.sendText(msg_chat_id,msg_id,'- عدد رسائلك هنا *~ '..(Redis:get(Boss..'Boss:Num:Message:User'..msg.chat_id..':'..msg.sender.user_id) or 1)..'*',"md",true)  
+elseif text == 'سحكاتي' or text == 'تعديلاتي' then
+LuaTele.sendText(msg_chat_id,msg_id,'- عدد التعديلات هنا *~ '..(Redis:get(Boss..'Boss:Num:Message:Edit'..msg.chat_id..msg.sender.user_id) or 0)..'*',"md",true)  
+elseif text == 'جهاتي' then
+LuaTele.sendText(msg_chat_id,msg_id,'- عدد جهاتك المضافه هنا *~ '..(Redis:get(Boss.."Boss:Num:Add:Memp"..msg.chat_id..":"..msg.sender.user_id) or 0)..'*',"md",true)  
+elseif text == 'مسح' and msg.reply_to_message_id ~= 0 and msg.Addictive then
+if ChannelJoin(msg) == false then
+return false
+end
+if GetInfoBot(msg).Delmsg == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه حذف الرسائل* ',"md",true)  
+end
+LuaTele.deleteMessages(msg.chat_id,{[1]= msg.reply_to_message_id})
+LuaTele.deleteMessages(msg.chat_id,{[1]= msg_id})
+end
+
+
+if text == 'تعين الايدي' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Redis:Id:Group"..msg.chat_id..""..msg.sender.user_id,240,true)  
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الان النص\n- يمكنك اضافه :\n- `#username` » اسم المستخدم\n- `#msgs` » عدد الرسائل\n- `#photos` » عدد الصور\n- `#id` » ايدي المستخدم\n- `#auto` » نسبة التفاعل\n- `#stast` » رتبة المستخدم \n- `#edit` » عدد السحكات\n- `#game` » عدد المجوهرات\n- `#AddMem` » عدد الجهات\n- `#Description` » تعليق الصوره","md",true)    
+end 
+if text == 'حذف الايدي' or text == 'مسح الايدي' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:del(Boss.."Boss:Set:Id:Group"..msg.chat_id)
+return LuaTele.sendText(msg_chat_id,msg_id, '- تم ازالة كليشة الايدي ',"md",true)  
+end
+
+if text and text:match("^مسح (.*)$") and msg.reply_to_message_id == 0 then
+local TextMsg = text:match("^مسح (.*)$")
+if TextMsg == 'المطورين الثانوين' or TextMsg == 'المطورين الثانويين' then
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:DevelopersQ:Groups") 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد مطورين ثانوين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:DevelopersQ:Groups") 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المطورين الثانويين*","md",true)
+end
+if TextMsg == 'المطورين' then
+if not msg.DevelopersQ then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(2)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:Developers:Groups") 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد مطورين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:Developers:Groups") 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المطورين *","md",true)
+end
+if TextMsg == 'المنشئين الاساسيين' then
+if LuaTele.getChatMember(msg_chat_id,msg.sender.user_id).status.luatele ~= "chatMemberStatusCreator" or not msg.Developers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(2)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:TheBasics:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد منشئين اساسيين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:TheBasics:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المنشؤين الاساسيين *","md",true)
+end
+if TextMsg == 'المنشئين' then
+if not msg.TheBasics then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(4)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:Originators:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد منشئين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:Originators:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المنشئين *","md",true)
+end
+if TextMsg == 'المدراء' then
+if not msg.Originators then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(5)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:Managers:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد مدراء حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:Managers:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المدراء *","md",true)
+end
+if TextMsg == 'الادمنيه' then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:Addictive:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد ادمنيه حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:Addictive:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من الادمنيه *","md",true)
+end
+if TextMsg == 'المميزين' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:Distinguished:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد مميزين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:Distinguished:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المميزين *","md",true)
+end
+if TextMsg == 'المحظورين عام' or TextMsg == 'قائمه العام' then
+if not msg.DevelopersQ then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(2)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:BanAll:Groups") 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد محظورين عام حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:BanAll:Groups") 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المحظورين عام *","md",true)
+end
+if TextMsg == 'المحظورين' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:BanGroup:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد محظورين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:BanGroup:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المحظورين *","md",true)
+end
+if TextMsg == 'المكتومين' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local Info_Members = Redis:smembers(Boss.."Boss:SilentGroup:Group"..msg_chat_id) 
+if #Info_Members == 0 then
+return LuaTele.sendText(msg_chat_id,msg_id,"- لا يوجد مكتومين حاليا , ","md",true)  
+end
+Redis:del(Boss.."Boss:SilentGroup:Group"..msg_chat_id) 
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..#Info_Members.."} من المكتومين *","md",true)
+end
+if TextMsg == 'المقيدين' then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if GetInfoBot(msg).BanUser == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه حظر المستخدمين* ',"md",true)  
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+local Info_Members = LuaTele.getSupergroupMembers(msg_chat_id, "Recent", "*", 0, 200)
+local List_Members = Info_Members.members
+x = 0
+for k, v in pairs(List_Members) do
+if Info_Members.members[k].status.is_member == true and Info_Members.members[k].status.luatele == "chatMemberStatusRestricted" then
+LuaTele.setChatMemberStatus(msg.chat_id,v.member_id.user_id,'restricted',{1,1,1,1,1,1,1,1})
+x = x + 1
+end
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"*- تم مسح {"..x.."} من المقيديين *","md",true)
+end
+if TextMsg == 'البوتات' then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).BanUser == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه حظر المستخدمين* ',"md",true)  
+end
+local Info_Members = LuaTele.getSupergroupMembers(msg_chat_id, "Bots", "*", 0, 200)
+local List_Members = Info_Members.members
+x = 0
+for k, v in pairs(List_Members) do
+local Ban_Bots = LuaTele.setChatMemberStatus(msg.chat_id,v.member_id.user_id,'banned',0)
+if Ban_Bots.luatele == "ok" then
+x = x + 1
+end
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عدد البوتات الموجوده : "..#List_Members.."\n- تم طرد ( "..x.." ) بوت من المجموعه *","md",true)  
+end
+if TextMsg == 'المطرودين' then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).BanUser == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه حظر المستخدمين* ',"md",true)  
+end
+local Info_Members = LuaTele.getSupergroupMembers(msg_chat_id, "Banned", "*", 0, 200)
+x = 0
+local List_Members = Info_Members.members
+for k, v in pairs(List_Members) do
+UNBan_Bots = LuaTele.setChatMemberStatus(msg.chat_id,v.member_id.user_id,'restricted',{1,1,1,1,1,1,1,1,1})
+if UNBan_Bots.luatele == "ok" then
+x = x + 1
+end
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عدد المطرودين في الموجوده : "..#List_Members.."\n- تم الغاء الحظر عن ( "..x.." ) من الاشخاص*","md",true)  
+end
+if TextMsg == 'المحذوفين' then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+if GetInfoBot(msg).BanUser == false then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- البوت ليس لديه صلاحيه حظر المستخدمين* ',"md",true)  
+end
+local Info_Members = LuaTele.searchChatMembers(msg_chat_id, "*", 200)
+local List_Members = Info_Members.members
+x = 0
+for k, v in pairs(List_Members) do
+local UserInfo = LuaTele.getUser(v.member_id.user_id)
+if UserInfo.type.luatele == "userTypeDeleted" then
+local userTypeDeleted = LuaTele.setChatMemberStatus(msg.chat_id,v.member_id.user_id,'banned',0)
+if userTypeDeleted.luatele == "ok" then
+x = x + 1
+end
+end
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- تم طرد ( "..x.." ) حساب محذوف *","md",true)  
+end
+end
+
+
+if text == ("مسح ردود المدير") or text == ("مسح الردود")  then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:List:Manager"..msg_chat_id.."")
+for k,v in pairs(list) do
+Redis:del(Boss.."Boss:Add:Rd:Manager:Gif"..v..msg_chat_id)   
+Redis:del(Boss.."Boss:Add:Rd:Manager:Vico"..v..msg_chat_id)   
+Redis:del(Boss.."Boss:Add:Rd:Manager:Stekrs"..v..msg_chat_id)     
+Redis:del(Boss.."Boss:Add:Rd:Manager:Text"..v..msg_chat_id)   
+Redis:del(Boss.."Boss:Add:Rd:Manager:Photo"..v..msg_chat_id)
+Redis:del(Boss.."Boss:Add:Rd:Manager:Video"..v..msg_chat_id)
+Redis:del(Boss.."Boss:Add:Rd:Manager:File"..v..msg_chat_id)
+Redis:del(Boss.."Boss:Add:Rd:Manager:video_note"..v..msg_chat_id)
+Redis:del(Boss.."Boss:Add:Rd:Manager:Audio"..v..msg_chat_id)
+Redis:del(Boss.."Boss:List:Manager"..msg_chat_id)
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم مسح قائمه ردود المدير","md",true)  
+end
+if text == ("ردود المدير") or text == ("الردود") then
+if not msg.Managers then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(6)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:List:Manager"..msg_chat_id.."")
+text = "- قائمه ردود المدير \n➖➖➖\n"
+for k,v in pairs(list) do
+if Redis:get(Boss.."Boss:Add:Rd:Manager:Gif"..v..msg_chat_id) then
+db = "متحركه 🎭"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:Vico"..v..msg_chat_id) then
+db = "بصمه 📢"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:Stekrs"..v..msg_chat_id) then
+db = "ملصق 🃏"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:Text"..v..msg_chat_id) then
+db = "رساله ✉"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:Photo"..v..msg_chat_id) then
+db = "صوره 🎇"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:Video"..v..msg_chat_id) then
+db = "فيديو 📹"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:File"..v..msg_chat_id) then
+db = "ملف 🗂"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:Audio"..v..msg_chat_id) then
+db = "اغنيه 🎵"
+elseif Redis:get(Boss.."Boss:Add:Rd:Manager:video_note"..v..msg_chat_id) then
+db = "بصمه فيديو 🎥"
+end
+text = text..""..k.." » {"..v.."} » {"..db.."}\n"
+end
+if #list == 0 then
+text = "- عذرا لا يوجد ردود للمدير في المجموعه"
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"["..text.."]","md",true)  
+end
+if text == "اضف رد" then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Set:Manager:rd"..msg.sender.user_id..":"..msg_chat_id,true)
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الان الكلمه لاضافتها في ردود المدير ","md",true)  
+end
+if text == "حذف رد" then
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Set:Manager:rd"..msg.sender.user_id..":"..msg_chat_id,"true2")
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الان الكلمه لحذفها من ردود المدير","md",true)  
+end
+if text == ("مسح ردود المطور") then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:List:Rd:Sudo")
+for k,v in pairs(list) do
+Redis:del(Boss.."Boss:Add:Rd:Sudo:Gif"..v)   
+Redis:del(Boss.."Boss:Add:Rd:Sudo:vico"..v)   
+Redis:del(Boss.."Boss:Add:Rd:Sudo:stekr"..v)     
+Redis:del(Boss.."Boss:Add:Rd:Sudo:Text"..v)   
+Redis:del(Boss.."Boss:Add:Rd:Sudo:Photo"..v)
+Redis:del(Boss.."Boss:Add:Rd:Sudo:Video"..v)
+Redis:del(Boss.."Boss:Add:Rd:Sudo:File"..v)
+Redis:del(Boss.."Boss:Add:Rd:Sudo:Audio"..v)
+Redis:del(Boss.."Boss:Add:Rd:Sudo:video_note"..v)
+Redis:del(Boss.."Boss:List:Rd:Sudo")
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"- تم حذف ردود المطور","md",true)  
+end
+if text == ("ردود المطور") then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+local list = Redis:smembers(Boss.."Boss:List:Rd:Sudo")
+text = "\n📝︙قائمة ردود المطور \n➖➖➖\n"
+for k,v in pairs(list) do
+if Redis:get(Boss.."Boss:Add:Rd:Sudo:Gif"..v) then
+db = "متحركه 🎭"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:vico"..v) then
+db = "بصمه 📢"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:stekr"..v) then
+db = "ملصق 🃏"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:Text"..v) then
+db = "رساله ✉"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:Photo"..v) then
+db = "صوره 🎇"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:Video"..v) then
+db = "فيديو 📹"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:File"..v) then
+db = "ملف 🗂"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:Audio"..v) then
+db = "اغنيه 🎵"
+elseif Redis:get(Boss.."Boss:Add:Rd:Sudo:video_note"..v) then
+db = "بصمه فيديو 🎥"
+end
+text = text..""..k.." » {"..v.."} » {"..db.."}\n"
+end
+if #list == 0 then
+text = "- لا توجد ردود للمطور"
+end
+return LuaTele.sendText(msg_chat_id,msg_id,"["..text.."]","md",true)  
+end
+if text == "اضف رد للكل" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Set:Rd"..msg.sender.user_id..":"..msg_chat_id,true)
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الان الكلمه لاضافتها في ردود المطور ","md",true)  
+end
+if text == "حذف رد للكل" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:set(Boss.."Boss:Set:On"..msg.sender.user_id..":"..msg_chat_id,true)
+return LuaTele.sendText(msg_chat_id,msg_id,"- ارسل الان الكلمه لحذفها من ردود المطور","md",true)  
+end
+if text=="اذاعه خاص" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Broadcasting:Users" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+LuaTele.sendText(msg_chat_id,msg_id,"↯︙ارسل لي سواء كان \n❨ ملف • ملصق • متحركه • صوره\n • فيديو • بصمه الفيديو • بصمه • صوت • رساله ❩\n➖➖➖\n↯︙للخروج ارسل ( الغاء )\n ✓","md",true)  
+return false
+end
+
+if text=="اذاعه" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Broadcasting:Groups" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+LuaTele.sendText(msg_chat_id,msg_id,"↯︙ارسل لي سواء كان \n❨ ملف • ملصق • متحركه • صوره\n • فيديو • بصمه الفيديو • بصمه • صوت • رساله ❩\n➖➖➖\n↯︙للخروج ارسل ( الغاء )\n ✓","md",true)  
+return false
+end
+
+if text=="اذاعه بالتثبيت" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Broadcasting:Groups:Pin" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+LuaTele.sendText(msg_chat_id,msg_id,"↯︙ارسل لي سواء كان \n❨ ملف • ملصق • متحركه • صوره\n • فيديو • بصمه الفيديو • بصمه • صوت • رساله ❩\n➖➖➖\n↯︙للخروج ارسل ( الغاء )\n ✓","md",true)  
+return false
+end
+
+if text=="اذاعه بالتوجيه" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Broadcasting:Groups:Fwd" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+LuaTele.sendText(msg_chat_id,msg_id,"- ارسل لي التوجيه الان\n- ليتم نشره في المجموعات","md",true)  
+return false
+end
+
+if text=="اذاعه خاص بالتوجيه" then 
+if not msg.ControllerBot then 
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+Redis:setex(Boss.."Boss:Broadcasting:Users:Fwd" .. msg_chat_id .. ":" .. msg.sender.user_id, 600, true) 
+LuaTele.sendText(msg_chat_id,msg_id,"- ارسل لي التوجيه الان\n- ليتم نشره الى المشتركين","md",true)  
+return false
+end
+if text == 'كشف القيود' and msg.reply_to_message_id ~= 0 then
+local Message_Reply = LuaTele.getMessage(msg.chat_id, msg.reply_to_message_id)
+local UserInfo = LuaTele.getUser(Message_Reply.sender.user_id)
+if UserInfo.message == "Invalid user ID" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ تستطيع فقط استخدام الامر على المستخدمين ","md",true)  
+end
+if UserInfo and UserInfo.type and UserInfo.type.luatele == "userTypeBot" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام الامر على البوت ","md",true)  
+end
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+local GetMemberStatus = LuaTele.getChatMember(msg_chat_id,Message_Reply.sender.user_id).status
+if GetMemberStatus.luatele == "chatMemberStatusRestricted" then
+Restricted = 'مقيد'
+else
+Restricted = 'غير مقيد'
+end
+if Statusrestricted(msg_chat_id,Message_Reply.sender.user_id).BanAll == true then
+BanAll = 'محظور عام'
+else
+BanAll = 'غير محظور عام'
+end
+if Statusrestricted(msg_chat_id,Message_Reply.sender.user_id).BanGroup == true then
+BanGroup = 'محظور'
+else
+BanGroup = 'غير محظور'
+end
+if Statusrestricted(msg_chat_id,Message_Reply.sender.user_id).SilentGroup == true then
+SilentGroup = 'مكتوم'
+else
+SilentGroup = 'غير مكتوم'
+end
+LuaTele.sendText(msg_chat_id,msg_id,"\n*- معلومات الكشف \n➖➖➖"..'\n- الحظر العام : '..BanAll..'\n- الحظر : '..BanGroup..'\n- الكتم : '..SilentGroup..'\n- التقييد : '..Restricted..'*',"md",true)  
+end
+if text and text:match('^كشف القيود @(%S+)$') then
+local UserName = text:match('^كشف القيود @(%S+)$')
+if not msg.Addictive then
+return LuaTele.sendText(msg_chat_id,msg_id,'\n*- هذا الامر يخص { '..Controller_Num(7)..' }* ',"md",true)  
+end
+if ChannelJoin(msg) == false then
+return false
+end
+if msg.can_be_deleted_for_all_users == false then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n*- عذرآ البوت ليس ادمن في المجموعه يرجى ترقيته وتفعيل الصلاحيات له *","md",true)  
+end
+local UserId_Info = LuaTele.searchPublicChat(UserName)
+if not UserId_Info.id then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا يوجد حساب بهذا المعرف ","md",true)  
+end
+if UserId_Info.type.is_channel == true then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف قناة او كروب ","md",true)  
+end
+if UserName and UserName:match('(%S+)[Bb][Oo][Tt]') then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ لا تستطيع استخدام معرف البوت ","md",true)  
+end
+local GetMemberStatus = LuaTele.getChatMember(msg_chat_id,UserId_Info.id).status
+if GetMemberStatus.luatele == "chatMemberStatusRestricted" then
+Restricted = 'مقيد'
+else
+Restricted = 'غير مقيد'
+end
+if Statusrestricted(msg_chat_id,UserId_Info.id).BanAll == true then
+BanAll = 'محظور عام'
+else
+BanAll = 'غير محظور عام'
+end
+if Statusrestricted(msg_chat_id,UserId_Info.id).BanGroup == true then
+BanGroup = 'محظور'
+else
+BanGroup = 'غير محظور'
+end
+if Statusrestricted(msg_chat_id,UserId_Info.id).SilentGroup == true then
+SilentGroup = 'مكتوم'
+else
+SilentGroup = 'غير مكتوم'
+end
+LuaTele.sendText(msg_chat_id,msg_id,"\n*- معلومات الكشف \n➖➖➖"..'\n- الحظر العام : '..BanAll..'\n- الحظر : '..BanGroup..'\n- الكتم : '..SilentGroup..'\n- التقييد : '..Restricted..'*',"md",true)  
+end
+if text == 'رفع القيود' and msg.reply_to_message_id ~= 0 then
+local Message_Reply = LuaTele.getMessage(msg.chat_id, msg.reply_to_message_id)
+local UserInfo = LuaTele.getUser(Message_Reply.sender.user_id)
+if UserInfo.message == "Invalid user ID" then
+return LuaTele.sendText(msg_chat_id,msg_id,"\n- عذرآ تستطيع فقط استخدام الامر على الم
